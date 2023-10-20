@@ -5,7 +5,6 @@
 }
 body {
   background-color: #121213;
-  touch-action: none;
 }
 .game-container {
   height: 90vh;
@@ -25,13 +24,11 @@ body {
 .tile-container {
   width: 330px;
   margin-bottom: 0px;
-  touch-action: none;
 }
 .key-container {
   width: 510px;
   display: flex;
   flex-wrap: wrap;
-  touch-action: none;
 }
 .key-container button {
   width: 43px;
