@@ -37,6 +37,7 @@ body {
   border: none;
   background-color: #818384;
   margin: 4px;
+  font-size: 0.9rem;
 }
 .key-container :nth-child(11) {
   margin-left: 20px;
